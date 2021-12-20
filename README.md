@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EPX-G
+- 👋 Hi, My name is Kevin Tudor i go by @EPX-G on Github and other social media platforms.
 - 👀 I’m interested in learning more about programming.
 - 🌱 I’m currently learning Flask, SQL, and Node.JS.
 - 💞️ I’m looking to collaborate on any project.
